@@ -1,0 +1,272 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "NXTFolio",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://nxtfolio.herokuapp.com/",
+      "description": "Collaborated on enhancing a social-software platform(legacy project) for creatives in the fashion and lifestyle industry. The platformce promotes seamless collaboration, connecting professionals with complementary skills. A dynamic platform tailored to the unique needs of the creative community.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Ruby on Rails",
+          "iconifyClass": "logos-rails"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Docker",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Sentiment Analysis using BERT",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "https://github.com/vishnu-vasan/sentiment-analysis-yelp-reviews",
+      "description": "This project focuses on sentiment analysis within the context of Yelp reviews. Advanced natural language processing (NLP) techniques have been employed, leveraging transformer-based models for sentiment classification.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Hugging Face",
+          "iconifyClass": "emojione-hugging-face"
+        },
+        {
+          "name": "Natural Language Processing",
+          "iconifyClass": "carbon:ibm-watson-natural-language-understanding"
+        },
+        {
+          "name": "Pytorch",
+          "iconifyClass": "logos-pytorch"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Urban Planning Analysis Using Google Street View Images",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "#",
+      "description": "Utilised GMaps API for vegetation segmentation in Street View, streamlined Green View Index calculations, and devised a YOLOv5 model for identifying mosquito breeding sites and visual pollutants in specified zones.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Pytorch",
+          "iconifyClass": "logos-pytorch"
+        },
+        {
+          "name": "Google Maps API",
+          "iconifyClass": "logos-google-maps"
+        },
+        {
+          "name": "OpenCV",
+          "iconifyClass": "logos-opencv"
+        },
+        {
+          "name": "Flask",
+          "iconifyClass": "logos-flask"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Data-Driven COVID-19 Impact Mitigation - TNeGA",
+      "createdAt": "2021-11-26T17:56:07Z",
+      "url": "https://github.com/skrishnan2001/COVID-19-Data-Analytics",
+      "description": "Produced impactful data visualizations for COVID-19 analysis, simplifying complex datasets. Collaborated on a user-friendly chatbot, boosting public access to pandemic information.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Flask",
+          "iconifyClass": "logos-flask"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Pandas",
+          "iconifyClass": "logos-pandas"
+        },
+        {
+          "name": "Numpy",
+          "iconifyClass": "devicon-plain:numpy-wordmark"
+        },
+        {
+          "name": "Seaborn",
+          "iconifyClass": "logos-seaborn"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "Rock Paper Scissors",
+      "createdAt": "2021-01-06T06:36:41Z",
+      "url": "https://github.com/vishnu-vasan/rock-paper-scissor",
+      "description": "Developed an engaging Rock, Paper, Scissors game using React-Native, providing an interactive and enjoyable gaming experience with cross-platform compatibility.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React Native",
+          "iconifyClass": "tabler:brand-react-native"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos:firebase"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zbXRvcnkzMjU5NDM2MTE=",
+      "name": "Tourism Planner Application",
+      "createdAt": "2021-01-01T08:31:51Z",
+      "url": "https://github.com/Rohith8ceg/tourism_app",
+      "description": "Created a feature-rich Tourism Planner application using React Native, offering users an intuitive platform to plan and enhance their travel experiences seamlessly.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React Native",
+          "iconifyClass": "tabler:brand-react-native"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos:firebase"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "Blood Bank Inventory Management",
+      "createdAt": "2021-01-01T08:31:51Z",
+      "url": "https://github.com/vishnu-vasan/Blood_Bank_Project-WT",
+      "description": "Implemented a robust blood bank inventory management system using React for the frontend, Node.js for the backend, and MySQL for efficient data storage, ensuring streamlined and effective blood supply management.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zbXRvcnkzMjU5NDM2MTE=",
+      "name": "Personal Portfolio Website",
+      "createdAt": "2021-01-01T08:31:51Z",
+      "url": "https://github.com/vishnu-vasan/react_blog_page",
+      "description": "Designed and developed a personalized Portfolio website using React, showcasing skills, projects, and achievements in a visually appealing and user-friendly manner, creating a professional online presence.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "GitHub",
+          "iconifyClass": "bi:github"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTJ=",
+      "name": "TODO App",
+      "createdAt": "2021-01-01T08:31:51Z",
+      "url": "https://github.com/vishnu-vasan/todo-heroku",
+      "description": "Developed a user-friendly ToDo application using Django, providing a seamless and organized platform for task management and productivity.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "vscode-icons:file-type-django"
+        },
+        {
+          "name": "SQLite3",
+          "iconifyClass": "logos-sqlite"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM2MTE=",
+      "name": "Photo Album Application",
+      "createdAt": "2021-01-01T08:31:51Z",
+      "url": "https://github.com/vishnu-vasan/django_photo_album",
+      "description": "Crafted an intuitive Photo Album web application with Django, offering users a visually appealing and organized platform to manage and showcase their photo collections effortlessly.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "vscode-icons:file-type-django"
+        },
+        {
+          "name": "SQLite3",
+          "iconifyClass": "logos-sqlite"
+        }
+      ]
+    }
+  ]
+}
