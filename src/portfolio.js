@@ -25,7 +25,7 @@ const greeting = {
     "I'm a passionate individual, dedicated to pushing the boundaries of technology in Machine Learning and Software Development.",
   resumeLink:
     "https://drive.google.com/file/d/13RNLkzOwT81v4pPgJw4-0I7TPiwER8t4/view?usp=drive_link",
-  portfolio_repository: "https://github.com/vishnu-vasan.github.io",
+  portfolio_repository: "https://medium.com/@vishnu.vasan.r.21",
   githubProfile: "https://github.com/vishnu-vasan",
 };
 
@@ -434,7 +434,7 @@ const experience = {
           duration: "January 2024 - Present",
           location: "College Station, Texas",
           description: [
-            "⚡ Spearheading a data mining initiative focused on analyzing bulk and single-cell RNA sequencing datasets derived from published RiboTag studies on astrocytes and neurons.",
+            "⚡ Spearheading a data mining initiative focused on analyzing Ribo-seq, bulk and single-cell RNA sequencing datasets derived from published studies on astrocytes and neurons.",
             "⚡ Conducting in-depth analysis to identify expression patterns of known synaptic genes in neurons and astrocyte cell types.",
           ],
           color: "#000000",
