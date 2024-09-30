@@ -451,11 +451,53 @@ const experience = {
           ],
           color: "#000000",
         },
+        {
+          title: "ML Researcher - Single Cell",
+          company: "Texas A&M University",
+          company_url: "https://cailab-tamu.github.io/",
+          logo_path: "tamu_logo2.png",
+          duration: "September 2023 - Present",
+          location: "College Station, Texas",
+          description: [
+            "⚡ Spearheading efforts to integrate scATAC-seq and scRNA-seq data, enhancing the robustness of Gene Regulatory Network (GRN) inference methodologies.",
+            "⚡ Developed a robust pipeline utilizing velocyto for spliced and unspliced count generation and scVelo for RNA Velocity Analysis, improving cellular trajectory predictions.",
+          ],
+          color: "#000000",
+        },
       ],
     },
     {
       title: "Internships",
       experiences: [
+        {
+          title: "Bioinformatics Co-Op",
+          company:
+            "Moderna, Inc",
+          company_url: "https://www.modernatx.com/en-US",
+          logo_path: "moderna_logo.png",
+          duration: "July 2024 - Present",
+          location: "Cambridge, Massachusetts",
+          description: [
+            "⚡ Implemented a Nextflow pipeline from scratch for preprocessing high-coverage Ribo-Seq data, reducing setup complexity by 40% and cutting manual interventions by 50%.",
+            "⚡ Developing a ML model using Ribo-Seq data for predicting ribosome translational profiles.",
+          ],
+          color: "#000000",
+        },
+        {
+          title: "AI/ML Engineer for Data Management Software Intern",
+          company:
+            "Neutrolis, Inc",
+          company_url: "https://www.neutrolis.com/",
+          logo_path: "neutrolis_logo.jpeg",
+          duration: "May 2024 - July 2024",
+          location: "Cambridge, Massachusetts",
+          description: [
+            "⚡ Engineered an Azure-based CI/CD pipeline that enforced naming conventions across 50,000+ files in 10+ SharePoint sites, significantly improving data accessibility for drug discovery operations.",
+            "⚡ Utilized MS Graph API to enforce file naming conventions, reducing file system inconsistencies by 90% and creating a robust data framework for future AI/ML integration.",
+            "⚡ Strengthened CI/CD pipeline with compliance and vulnerability scanning, ensuring secure management of drug discovery assets.",
+          ],
+          color: "#000000",
+        },
         {
           title: "Research Intern",
           company:
@@ -596,7 +638,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "117 Holleman Dr W, College Station, TX 77840",
+    subtitle: "75 Longwood Avenue, Brookline, MA 02446",
     avatar_image_path: "address_image.svg",
     location_map_link:
       "https://www.google.com/maps/place/117+Holleman+Dr+W,+College+Station,+TX+77840/@30.5942709,-96.3376034,17z/data=!3m1!4b1!4m6!3m5!1s0x8646837046bb1b7f:0x8ac00529c10dd2ac!8m2!3d30.5942663!4d-96.3350285!16s%2Fg%2F11cpj1rk4_?entry=ttu",
