@@ -475,11 +475,12 @@ const experience = {
             "Moderna, Inc",
           company_url: "https://www.modernatx.com/en-US",
           logo_path: "moderna_logo.png",
-          duration: "July 2024 - Present",
+          duration: "July 2024 - Dec 2024",
           location: "Cambridge, Massachusetts",
           description: [
-            "⚡ Implemented a Nextflow pipeline from scratch for preprocessing high-coverage Ribo-Seq data, reducing setup complexity by 40% and cutting manual interventions by 50%.",
-            "⚡ Developing a ML model using Ribo-Seq data for predicting ribosome translational profiles.",
+            "⚡ Developed a custom Nextflow pipeline to automate preprocessing of Ribo-Seq and RNA-Seq data, seamlessly processing over 180M reads on average across 66 samples, reducing manual effort by 90% and enabling efficient, reproducible workflows.",
+            "⚡ Engineered a machine learning model to predict ribosome densities at codon resolution, performing preliminary model building using transformers, FNNs, and ensemble learning models to optimize performance on human Ribo-Seq data.",
+            "⚡ Developed a robust pipeline to process RNA sequence data, generating comprehensive multi-metric HTML reports that streamline codon usage and structural metrics visualization.",
           ],
           color: "#000000",
         },
@@ -638,7 +639,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "75 Longwood Avenue, Brookline, MA 02446",
+    subtitle: "117 Holleman Dr W, College Station, TX 77840",
     avatar_image_path: "address_image.svg",
     location_map_link:
       "https://www.google.com/maps/place/117+Holleman+Dr+W,+College+Station,+TX+77840/@30.5942709,-96.3376034,17z/data=!3m1!4b1!4m6!3m5!1s0x8646837046bb1b7f:0x8ac00529c10dd2ac!8m2!3d30.5942663!4d-96.3350285!16s%2Fg%2F11cpj1rk4_?entry=ttu",
